@@ -1,6 +1,6 @@
 # ticket-service by Erockion
 
-Starter project for building a REST API with NestJS, PostgreSQL, TypeORM and JWT authentication.
+REST API for a ticketing system built with NestJS, PostgreSQL, TypeORM and JWT authentication.
 
 ## Requirements
 
